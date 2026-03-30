@@ -1,5 +1,13 @@
 ## Overview
 
+## Install Go packages
+
+Install the required packages and resolve all dependencies.
+
+```bash
+go mod tidy
+```
+
 ## install gcloud
 
 First, install gcloud using curl.
